@@ -1,0 +1,15 @@
+# === Core Testing Framework ===
+pytest>=8.0.0
+
+# === HTTP / API Testing ===
+requests>=2.31.0
+
+# === UI Testing ===
+pytest-playwright>=0.5.0
+playwright>=1.47.0
+
+# === HTML Reporting (optional but recommended) ===
+pytest-html>=4.1.1
+
+# === Optional: For better test output formatting ===
+pytest-sugar>=0.9.7
